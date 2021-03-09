@@ -1,0 +1,9 @@
+name: SeasonStart
+version: ${project.version}
+main: de.ximanton.seasonstart.Main
+api-version: 1.16
+authors: [xImAnton_]
+description: managing server world smp start
+commands:
+  start:
+    description: starts the season and removes the start debuffs

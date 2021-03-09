@@ -1,0 +1,13 @@
+players:
+  immovable: true
+  invulnerable: true
+modifySpawnLocation: false
+spawnLocation:
+  dimension: overworld
+  x: 0
+  y: 0
+  z: 0
+seasonStarted: false
+ignoreCreativePlayers: true
+startItems:
+  APPLE: 1
